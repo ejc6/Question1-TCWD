@@ -1,0 +1,666 @@
+{
+	"auto_complete":
+	{
+		"selected_items":
+		[
+			[
+				"rgb",
+				"rgbToHex"
+			],
+			[
+				"coner",
+				"convertColor"
+			],
+			[
+				"fin",
+				"findSum"
+			],
+			[
+				"new",
+				"newSubArray"
+			],
+			[
+				"ord",
+				"orderedList"
+			],
+			[
+				"o",
+				"orderedList"
+			],
+			[
+				"retur",
+				"returnArray"
+			],
+			[
+				"le",
+				"length"
+			],
+			[
+				"ne",
+				"newArray"
+			],
+			[
+				"mak",
+				"makeSubArrays"
+			],
+			[
+				"lo",
+				"lookingFor"
+			],
+			[
+				"a",
+				"amazonBasket"
+			],
+			[
+				"bi",
+				"biggie"
+			],
+			[
+				"big",
+				"biggestNumberInArray"
+			],
+			[
+				"dra",
+				"dragons2"
+			],
+			[
+				"con",
+				"constructor"
+			],
+			[
+				"su",
+				"superClone"
+			],
+			[
+				"clon",
+				"clone1"
+			],
+			[
+				"cons",
+				"console"
+			],
+			[
+				"func",
+				"functionFactory"
+			],
+			[
+				"arr",
+				"array"
+			],
+			[
+				"it",
+				"items"
+			],
+			[
+				"tot",
+				"totalScores"
+			],
+			[
+				"user",
+				"username"
+			],
+			[
+				"ob",
+				"objReducer"
+			],
+			[
+				"red",
+				"reduceArr"
+			],
+			[
+				"fil",
+				"filterArr"
+			],
+			[
+				"fi",
+				"filterer"
+			],
+			[
+				"tim",
+				"timesFive"
+			],
+			[
+				"sum",
+				"sumThree"
+			],
+			[
+				"mu",
+				"multFive"
+			],
+			[
+				"b",
+				"byFour"
+			],
+			[
+				"by",
+				"byThree"
+			],
+			[
+				"is",
+				"isValidAge"
+			],
+			[
+				"first",
+				"firstName"
+			],
+			[
+				"last",
+				"lastName"
+			],
+			[
+				"gree",
+				"greet"
+			],
+			[
+				"c",
+				"const"
+			],
+			[
+				"colo",
+				"color2"
+			],
+			[
+				"co",
+				"color1"
+			],
+			[
+				"tex",
+				"text-align\tproperty"
+			],
+			[
+				"text",
+				"text-transform\tproperty"
+			],
+			[
+				"crea",
+				"createTextNode"
+			],
+			[
+				"s",
+				"Spinach"
+			],
+			[
+				"add",
+				"addEventListener"
+			],
+			[
+				"clic",
+				"clickListItem"
+			],
+			[
+				"list",
+				"listItem"
+			],
+			[
+				"cre",
+				"createElement"
+			],
+			[
+				"get",
+				"getElementById"
+			],
+			[
+				"wor",
+				"word-spacing\tproperty"
+			],
+			[
+				"proto",
+				"prototype"
+			],
+			[
+				"pass",
+				"passWord"
+			],
+			[
+				"us",
+				"userFound"
+			],
+			[
+				"chk",
+				"chkpw"
+			],
+			[
+				"ch",
+				"chkDBCredentials"
+			],
+			[
+				"pas",
+				"passWord"
+			],
+			[
+				"pro",
+				"prompt"
+			],
+			[
+				"wid",
+				"width\tproperty"
+			],
+			[
+				"grip-te",
+				"grid-template-columns\tproperty"
+			],
+			[
+				"align",
+				"align-items\tproperty"
+			],
+			[
+				"max",
+				"max-width\tproperty"
+			],
+			[
+				"bag",
+				"background-color\tproperty"
+			],
+			[
+				"tra",
+				"transition\tproperty"
+			],
+			[
+				"font-",
+				"font-size\tproperty"
+			],
+			[
+				"grid-c",
+				"grid-column-end\tproperty"
+			],
+			[
+				"grid-te",
+				"grid-template-columns\tproperty"
+			],
+			[
+				"tx",
+				"text-align\tproperty"
+			],
+			[
+				"col",
+				"color\tproperty"
+			],
+			[
+				"mar",
+				"margin\tproperty"
+			],
+			[
+				"bor",
+				"border-radius\tproperty"
+			],
+			[
+				"ali",
+				"align-self\tproperty"
+			],
+			[
+				"background-c",
+				"background-color\tproperty"
+			],
+			[
+				"font",
+				"font-family\tproperty"
+			],
+			[
+				"flex",
+				"flex-wrap\tproperty"
+			],
+			[
+				"h",
+				"height\tproperty"
+			],
+			[
+				"inl",
+				"inline-block\tdisplay"
+			],
+			[
+				"fon",
+				"font-family\tproperty"
+			],
+			[
+				"rg",
+				"rgba()\tcolor"
+			],
+			[
+				"blo",
+				"inline-block\tdisplay"
+			],
+			[
+				"back",
+				"background-size\tproperty"
+			],
+			[
+				"bac",
+				"background\tproperty"
+			],
+			[
+				"hea",
+				"header\tTag"
+			],
+			[
+				"di",
+				"div\tTag"
+			],
+			[
+				"se",
+				"select\tTag"
+			]
+		]
+	},
+	"buffers":
+	[
+	],
+	"build_system": "",
+	"build_system_choices":
+	[
+	],
+	"build_varint": "",
+	"command_palette":
+	{
+		"height": 392.0,
+		"last_filter": "",
+		"selected_items":
+		[
+			[
+				"save pro",
+				"Project: Save As"
+			],
+			[
+				"Snippet: ",
+				"Snippet: Function"
+			],
+			[
+				"rem",
+				"Package Control: Remove Package"
+			],
+			[
+				"upda",
+				"Package Control: Upgrade/Overwrite All Packages"
+			],
+			[
+				"ins",
+				"Package Control: Install Package"
+			],
+			[
+				"install",
+				"Package Control: Install Package"
+			],
+			[
+				"remove",
+				"Package Control: Remove Package"
+			],
+			[
+				"package inst",
+				"Package Control: Install Package"
+			],
+			[
+				"package cont",
+				"Package Control: Disable Package"
+			],
+			[
+				"inst",
+				"Package Control: Install Package"
+			],
+			[
+				"insta",
+				"Package Control: Install Package"
+			],
+			[
+				"instal",
+				"Package Control: Install Package"
+			],
+			[
+				"ena",
+				"Package Control: Enable Package"
+			],
+			[
+				"remov",
+				"Package Control: Remove Package"
+			],
+			[
+				"beautif",
+				"Javascript Beautify"
+			],
+			[
+				"enable",
+				"Package Control: Enable Package"
+			],
+			[
+				"package",
+				"Package Control: Install Package"
+			],
+			[
+				"pack",
+				"Package Control: Remove Package"
+			],
+			[
+				"Mater",
+				"Material Theme: Activate theme"
+			],
+			[
+				"packa",
+				"Package Control: Install Package"
+			],
+			[
+				"paca",
+				"Install Package Control"
+			],
+			[
+				"",
+				"Set Syntax: JSON"
+			]
+		],
+		"width": 467.0
+	},
+	"console":
+	{
+		"height": 816.0,
+		"history":
+		[
+			"ls"
+		]
+	},
+	"distraction_free":
+	{
+		"menu_visible": true,
+		"show_minimap": false,
+		"show_open_files": false,
+		"show_tabs": false,
+		"side_bar_visible": false,
+		"status_bar_visible": false
+	},
+	"expanded_folders":
+	[
+		"/Users/edcollins/Documents/Coding_Software_ Development_stuff/The-Complete-Web-Developer-UDEMY/Practice Javascript Problems/Question-1"
+	],
+	"file_history":
+	[
+		"/Users/edcollins/Documents/Coding_Software_ Development_stuff/The-Complete-Web-Developer-UDEMY/Practice Javascript Problems/Question-1/app.js",
+		"/Users/edcollins/Documents/Coding_Software_ Development_stuff/The-Complete-Web-Developer-UDEMY/Practice Javascript Problems/Question-1/style.css",
+		"/Users/edcollins/Documents/Coding_Software_ Development_stuff/The-Complete-Web-Developer-UDEMY/Practice Javascript Problems/Question-1/index.html",
+		"/Users/edcollins/Library/Application Support/Sublime Text 3/Packages/SideBarEnhancements/Side Bar.sublime-settings",
+		"/Users/edcollins/Library/Application Support/Sublime Text 3/Packages/Javascript Beautify/JavascriptBeautify.sublime-settings",
+		"/Users/edcollins/Library/Application Support/Sublime Text 3/Packages/User/JavascriptBeautify.sublime-settings",
+		"/Users/edcollins/Documents/Coding_Software_ Development_stuff/The-Complete-Web-Developer-UDEMY/Background Generator/index.html",
+		"/Users/edcollins/Desktop/advanced-looping-solution.js",
+		"/Users/edcollins/Desktop/advanced-looping-exercise.js",
+		"/Users/edcollins/Desktop/exerciseES8.js",
+		"/Users/edcollins/Desktop/exerciseES7-SOLUTIONS.js",
+		"/Users/edcollins/Desktop/exercise5.js",
+		"/Users/edcollins/Desktop/exercise6.js",
+		"/Users/edcollins/Desktop/exerciseES7.js",
+		"/Users/edcollins/Desktop/exercise4.js",
+		"/Users/edcollins/Desktop/exercise3.js",
+		"/Users/edcollins/Desktop/exercise2.js",
+		"/Users/edcollins/Documents/Coding_Software_ Development_stuff/The-Complete-Web-Developer-UDEMY/DOM Manipulation/DOM-selectors.txt",
+		"/Users/edcollins/Desktop/exercise1.js",
+		"/Users/edcollins/Documents/Coding_Software_ Development_stuff/The-Complete-Web-Developer-UDEMY/Background Generator/app.js",
+		"/Users/edcollins/Documents/Coding_Software_ Development_stuff/The-Complete-Web-Developer-UDEMY/Background Generator/style.css",
+		"/Users/edcollins/Documents/Coding_Software_ Development_stuff/The-Complete-Web-Developer-UDEMY/DOM Manipulation/index.html",
+		"/Users/edcollins/Documents/Coding_Software_ Development_stuff/The-Complete-Web-Developer-UDEMY/DOM Manipulation/app.js",
+		"/Users/edcollins/Documents/Coding_Software_ Development_stuff/The-Complete-Web-Developer-UDEMY/DOM Manipulation/style.css",
+		"/Users/edcollins/Documents/Coding_Software_ Development_stuff/The-Complete-Web-Developer-UDEMY/JavaScript Lessons/index.html",
+		"/Users/edcollins/Documents/Coding_Software_ Development_stuff/The-Complete-Web-Developer-UDEMY/JavaScript Lessons/app.js",
+		"/Users/edcollins/Documents/Coding_Software_ Development_stuff/The-Complete-Web-Developer-UDEMY/JavaScript Lessons/app2.js",
+		"/Users/edcollins/Documents/Coding_Software_ Development_stuff/The-Complete-Web-Developer-UDEMY/CSS-Website-project-Lec-87-90ish/style.css",
+		"/Users/edcollins/Documents/Coding_Software_ Development_stuff/The-Complete-Web-Developer-UDEMY/CSS-Website-project-Lec-87-90ish/index.html",
+		"/Users/edcollins/Desktop/style.css",
+		"/Users/edcollins/Desktop/index.html",
+		"/Users/edcollins/Documents/Coding_Software_ Development_stuff/The-Complete-Web-Developer-UDEMY/Layout lessons/index.html",
+		"/Users/edcollins/Documents/Coding_Software_ Development_stuff/The-Complete-Web-Developer-UDEMY/Layout lessons/style.css",
+		"/Users/edcollins/Documents/Coding_Software_ Development_stuff/The-Complete-Web-Developer-UDEMY/Layout lessons/index (3).html",
+		"/Users/edcollins/Documents/Coding_Software_ Development_stuff/The-Complete-Web-Developer-UDEMY/Layout lessons/style (2).css",
+		"/Users/edcollins/Documents/Coding_Software_ Development_stuff/Animate-CSS/Animate.css",
+		"/Users/edcollins/Documents/Coding_Software_ Development_stuff/The-Complete-Web-Developer-UDEMY/Boostrap-Lessons/myStyle.css",
+		"/Users/edcollins/Documents/Coding_Software_ Development_stuff/The-Complete-Web-Developer-UDEMY/Boostrap-Lessons/index.html",
+		"/Users/edcollins/Documents/Coding_Software_ Development_stuff/The-Complete-Web-Developer-UDEMY/Support Documents/Robot starter files - lecture 59/index.html",
+		"/Users/edcollins/Documents/Coding_Software_ Development_stuff/The-Complete-Web-Developer-UDEMY/Support Documents/Robot starter files - lecture 59/index_START.html",
+		"/Users/edcollins/Documents/Coding_Software_ Development_stuff/The-Complete-Web-Developer-UDEMY/Support Documents/Robot starter files - lecture 59/style.css",
+		"/Users/edcollins/Documents/Coding_Software_ Development_stuff/The-Complete-Web-Developer-UDEMY/Support Documents/Robot starter files - lecture 59/style_START.css",
+		"/Users/edcollins/Documents/Coding_Software_ Development_stuff/The-Complete-Web-Developer-UDEMY/index.html",
+		"/Users/edcollins/Documents/Coding_Software_ Development_stuff/The-Complete-Web-Developer-UDEMY/style.css",
+		"/Users/edcollins/Documents/Coding_Software_ Development_stuff/The-Complete-Web-Developer-UDEMY/login.html",
+		"/Users/edcollins/Documents/Coding_Software_ Development_stuff/The-Complete-Web-Developer-UDEMY/Support Documents/CSS-Cheat-Sheet.txt",
+		"/Users/edcollins/Documents/Coding_Software_ Development_stuff/The-Complete-Web-Developer-UDEMY/Support Documents/picture-links.txt",
+		"/Users/edcollins/Documents/Coding_Software_ Development_stuff/The-Complete-Web-Developer-UDEMY/about.html",
+		"/Users/edcollins/Documents/Coding_Software_ Development_stuff/The-Complete-Web-Developer-UDEMY/style2.css",
+		"/Users/edcollins/Documents/Coding_Software_ Development_stuff/The-Complete-Web-Developer-UDEMY/newpage.html",
+		"/Users/edcollins/Documents/Coding_Software_ Development_stuff/The-Complete-Web-Developer-UDEMY/register.html",
+		"/Users/edcollins/Documents/Coding_Software_ Development_stuff/The-Complete-Web-Developer-UDEMY/waitbutwhy.html",
+		"/Applications/Sublime/Sublime-LICENSE",
+		"/Users/edcollins/Desktop/Ex_Files_JS_EssT_2011/Exercise Files/Chap14/Accordion_finished/script.js",
+		"/Users/edcollins/Desktop/Ex_Files_JS_EssT_2011/Exercise Files/Chap14/Accordion_finished/_css/main.css",
+		"/Users/edcollins/Library/Application Support/Sublime Text 3/Packages/User/Distraction Free.sublime-settings",
+		"/Users/edcollins/Desktop/Ex_Files_JS_EssT_2011/Exercise Files/Chap14/Accordion_finished/_css/narrow.css"
+	],
+	"find":
+	{
+		"height": 40.0
+	},
+	"find_in_files":
+	{
+		"height": 182.0,
+		"where_history":
+		[
+			""
+		]
+	},
+	"find_state":
+	{
+		"case_sensitive": false,
+		"find_history":
+		[
+			"function",
+			"result",
+			"i"
+		],
+		"highlight": true,
+		"in_selection": false,
+		"preserve_case": false,
+		"regex": false,
+		"replace_history":
+		[
+		],
+		"reverse": false,
+		"show_context": true,
+		"use_buffer2": true,
+		"whole_word": false,
+		"wrap": true
+	},
+	"groups":
+	[
+		{
+			"sheets":
+			[
+			]
+		}
+	],
+	"incremental_find":
+	{
+		"height": 40.0
+	},
+	"input":
+	{
+		"height": 0.0
+	},
+	"layout":
+	{
+		"cells":
+		[
+			[
+				0,
+				0,
+				1,
+				1
+			]
+		],
+		"cols":
+		[
+			0.0,
+			1.0
+		],
+		"rows":
+		[
+			0.0,
+			1.0
+		]
+	},
+	"menu_visible": true,
+	"output.find_results":
+	{
+		"height": 0.0
+	},
+	"pinned_build_system": "",
+	"project": "test-Q1-Project.sublime-project",
+	"replace":
+	{
+		"height": 76.0
+	},
+	"save_all_on_build": true,
+	"select_file":
+	{
+		"height": 0.0,
+		"last_filter": "",
+		"selected_items":
+		[
+			[
+				"sty",
+				"style.css"
+			],
+			[
+				"ind",
+				"index.html"
+			]
+		],
+		"width": 0.0
+	},
+	"select_project":
+	{
+		"height": 500.0,
+		"last_filter": "",
+		"selected_items":
+		[
+			[
+				"",
+				"~/Documents/Coding_Software_ Development_stuff/The-Complete-Web-Developer-UDEMY/Practice Javascript Problems/Question-1/test-Q1-Project.sublime-project"
+			]
+		],
+		"width": 380.0
+	},
+	"select_symbol":
+	{
+		"height": 0.0,
+		"last_filter": "",
+		"selected_items":
+		[
+		],
+		"width": 0.0
+	},
+	"selected_group": 0,
+	"settings":
+	{
+	},
+	"show_minimap": true,
+	"show_open_files": true,
+	"show_tabs": true,
+	"side_bar_visible": true,
+	"side_bar_width": 150.0,
+	"status_bar_visible": true,
+	"template_settings":
+	{
+	}
+}
